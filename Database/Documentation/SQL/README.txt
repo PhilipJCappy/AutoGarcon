@@ -5,6 +5,7 @@ Folder: SQL
 
 Files:
 -SQLRowDeletion3Mar: Sample and notes on how to delete an entry in MySQL
+-SQLStoredProcedures: Stored procedures used in MySQL Workbench
 -SQLTableCreation28Feb: Sample and notes on how to create a table in MySQL
 -SQLTableQueries1Mar.SQL: Sample of queries used for table data manipulation
 -SQLAllergenTableCreation4April: Process for uploading allergen table through import wizard on workbench
